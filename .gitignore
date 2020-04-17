@@ -11,6 +11,7 @@ target/
 /bin
 /.idea
 .metadata
+/.mvn
 
 ### STS ###
 .apt_generated
