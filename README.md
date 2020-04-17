@@ -28,23 +28,6 @@ public class Tutorial {
 
 # Circuito Del Under - Backend
 
-## Introducción:
-
-Proyecto del Trabajo de Inserción Profesional de la carrera "Tecnicatura en programación informática" de la Universidad de Quilmes.
-
-## Objetivo
-
-Sistema de publicacion de recitales.
-
-## Profesores:
-
-* Fernando Dodino
-
-## Equipo
-
-+ Cristian Espindola
-+ Sergio Guzman
-
 ## Stack tecnológico:
 + Java 1.8
 + Spring Boot
@@ -66,3 +49,23 @@ Sistema de publicacion de recitales.
 	</dependency>
 ````
 
+------------------------------------------------------------------------------------------
+
+# Circuito Del Under - Backend
+
+## Introducción:
+
+Proyecto del Trabajo de Inserción Profesional de la carrera "Tecnicatura en programación informática" de la Universidad de Quilmes.
+
+## Objetivo
+
+Sistema de publicacion de recitales.
+
+## Profesores:
+
+* Fernando Dodino
+
+## Equipo
+
++ Cristian Espindola
++ Sergio Guzman
