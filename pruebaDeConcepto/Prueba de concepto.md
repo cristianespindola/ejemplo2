@@ -1,5 +1,9 @@
 # Prueba de concepto
 
+Nuestra solucion esta separada en 2 proyectos.
++ Modelp del Dominio - (Backend)  [ReadMe](https://github.com/fuser1988/circuitoDelUnder-Backend/blob/master/README.md)
++ Modelo de la Vista - (Frontend) [ReadMe](https://github.com/fuser1988/circuitoDelUnder-Frontend/blob/master/README.md)
+
 ## Tarea
 
 como usuario buscar un recital por genero para asistir
@@ -14,11 +18,12 @@ El usuario ingresa un input con el genero que quiere buscar
 
 El pedido de busqueda llega al mensaje filterGenero del objeto RecitalController, que es el encargado de resolver el pedido y enviar una respuesta. Si el pedido no tiene resultados devuelve una una lista vacia, y si lo tiene devuelve la cantidad de resultados obtenidos.
 
-imagen
-
-aca es donde se comunica con la base de datos y obtiene lo pedido
-
-imagen
+````java
+	@GetMapping("/recitales/bandas")
+	public List<Recital> filterGenero(@RequestParam(value = "genero") String genero) {
+		return service.filterGenero(genero);
+	}
+````
 
 ### tercer paso
 
@@ -28,7 +33,7 @@ imagen
 
 aca es donde se lee el resultado y lo muestra 
 
- 	imagen
+imagen
 
 ## Extras
 
