@@ -42,6 +42,8 @@ imagen
 
 imagen
 
-
+<p align="center">
+  <img width="460" height="300" src="https://github.com/cristianespindola/ejemplo2/tree/master/pruebaDeConcepto/imagen.jpg">
+</p>
 
 ![alt text](https://github.com/cristianespindola/ejemplo2/tree/master/pruebaDeConcepto/imagen.jpg)
