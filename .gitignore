@@ -12,6 +12,8 @@ target/
 /.idea
 .metadata
 /.mvn
+mvnw
+mvnw.cmd
 
 ### STS ###
 .apt_generated
