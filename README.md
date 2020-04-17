@@ -53,7 +53,7 @@ public class Tutorial {
 
 # Circuito Del Under - Backend
 
-## Introducción:
+## Introducción
 
 Proyecto del Trabajo de Inserción Profesional de la carrera "Tecnicatura en programación informática" de la Universidad de Quilmes.
 
@@ -61,7 +61,7 @@ Proyecto del Trabajo de Inserción Profesional de la carrera "Tecnicatura en pro
 
 Sistema de publicacion de recitales.
 
-## Profesores:
+## Profesores
 
 * Fernando Dodino
 

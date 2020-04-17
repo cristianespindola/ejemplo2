@@ -1,16 +1,16 @@
-#Prueba de concepto
+# Prueba de concepto
 
-##Tarea
+## Tarea
 
 como usuario buscar un recital por genero para asistir
 
-##Pasos a seguir
+## Pasos a seguir
 
-#primer paso 
+# primer paso 
 
 El usuario ingresa un input con el genero que quiere buscar
 
-#segundo paso
+# segundo paso
 
 El pedido de busqueda llega al mensaje filterGenero del objeto RecitalController, que es el encargado de resolver el pedido y enviar una respuesta. Si el pedido no tiene resultados devuelve una una lista vacia, y si lo tiene devuelve la cantidad de resultados obtenidos.
 
@@ -20,7 +20,7 @@ aca es donde se comunica con la base de datos y obtiene lo pedido
 
 imagen
 
-#tercer paso
+# tercer paso
 
 Despues se devuelve lo pedido para que el componente lea la respuesta
 
@@ -30,14 +30,14 @@ aca es donde se lee el resultado y lo muestra
 
  	imagen
 
-## 	Extras
+## Extras
 
  Crear modelo Recital. integrar database Postgresql al proyecto. Integrar tanto el backend como el frontend a heroku.
 
-##Diagrama de Actividades
+## Diagrama de Actividades
 
 imagen
 
-##Diagrama UML
+## Diagrama UML
 
 imagen
