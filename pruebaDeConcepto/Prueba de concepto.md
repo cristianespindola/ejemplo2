@@ -38,9 +38,9 @@ aca es donde se lee el resultado y lo muestra
 
 imagen
 
-## Diagrama UML
+## Diagrama de Arquitentura
 
-imagen
+![imagen](diagrama-de-arquitectura.png)
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/cristianespindola/ejemplo2/tree/master/pruebaDeConcepto/descarga.PNG">
