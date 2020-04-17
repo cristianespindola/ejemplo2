@@ -50,4 +50,6 @@ imagen
   <img width="460" height="300" src="https://github.com/cristianespindola/ejemplo2/tree/master/pruebaDeConcepto/imagen.JPG">
 </p>
 
+![your_image_name](descarga.png)
+
 ![alt text](https://github.com/cristianespindola/ejemplo2/tree/master/pruebaDeConcepto/imagen.jpg)
