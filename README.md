@@ -50,10 +50,10 @@ Sistema de publicacion de recitales.
 + Postgresql
 + Java
 
-		
+````java		
 		<dependency>
     		<groupId>org.postgresql</groupId>
     		<artifactId>postgresql</artifactId>
     		<scope>runtime</scope>
 		</dependency>
-		
+````
