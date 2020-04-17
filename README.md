@@ -46,9 +46,12 @@ Sistema de publicacion de recitales.
 + Sergio Guzman
 
 ## Stack tecnológico:
++ Java 1.8
 + Spring Boot
 + Postgresql
-+ Java
++ JPA
+
+### Dependencias
 
 ````java		
 		<dependency>
@@ -56,4 +59,10 @@ Sistema de publicacion de recitales.
     		<artifactId>postgresql</artifactId>
     		<scope>runtime</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-jpa</artifactId>
+		</dependency>
 ````
+
