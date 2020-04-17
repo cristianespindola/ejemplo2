@@ -69,3 +69,11 @@ Sistema de publicacion de recitales.
 
 + Cristian Espindola
 + Sergio Guzman
+
+
+-----------------------------------------------------------------
+
+## Link a trello
+[Trello](https://trello.com/b/RjDFfjbw/circuito-del-under)
+
+# [Trello](https://trello.com/b/RjDFfjbw/circuito-del-under)
