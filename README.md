@@ -49,3 +49,11 @@ Sistema de publicacion de recitales.
 + Spring Boot
 + Postgresql
 + Java
+
+		
+		<dependency>
+    		<groupId>org.postgresql</groupId>
+    		<artifactId>postgresql</artifactId>
+    		<scope>runtime</scope>
+		</dependency>
+		
