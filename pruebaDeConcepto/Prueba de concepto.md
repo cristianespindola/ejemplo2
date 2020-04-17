@@ -39,22 +39,13 @@ imagen
 
  Crear modelo Recital. integrar database Postgresql al proyecto. Integrar tanto el backend como el frontend a heroku.
 
-## Diagrama de Actividades
-
-imagen
-
 ## Diagrama de Arquitentura
 
 ![imagen](diagrama-de-arquitectura.png)
 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/cristianespindola/ejemplo2/tree/master/pruebaDeConcepto/descarga.PNG">
-</p>
+## Dominio
+En el Backend vamos a utilizar como lenguaje Java 1.8 y expondremos servicios REST que nos permitirán interactuar con el modelo del dominio y acceder a la DataBase.
+Para la persistencia la tecnología seleccionada fue SpringBoot + Postgresql + JPA.
 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/cristianespindola/ejemplo2/tree/master/pruebaDeConcepto/imagen.JPG">
-</p>
-
-![your_image_name](descarga.png)
-
-![alt text](imagen.jpg)
+## Vista
+En el Frontend consumimos los servicios REST y los manipulamos mediante React. 
