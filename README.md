@@ -26,25 +26,15 @@ public class Tutorial {
 	}
 ````
 
-# Virtual Kiosk - backend
-
-## Requirements
-Deben ser instaladas las dependencias de maven del .pom del proyecto utilizando el comando:
-
-    $ mvn clean install compile test
-    
-Luego correr Jetty:
-
-    $ mvn jetty:run
+# Circuito Del Under - Backend
 
 ## Introducción:
 
-Proyecto TIP (Trabajo de Inserción Profesional) de la carrera "Tecnicatura en programación informática" de la Universidad de Quilmes, Argentina.
+Proyecto del Trabajo de Inserción Profesional de la carrera "Tecnicatura en programación informática" de la Universidad de Quilmes.
 
+## Objetivo
 
-## Overview
-
-Sistema donde se gestionan los pedidos entre el Mostrador y la Cocina para un negocio de Gastronomía.
+Sistema de publicacion de recitales.
 
 ## Profesores:
 
@@ -52,11 +42,10 @@ Sistema donde se gestionan los pedidos entre el Mostrador y la Cocina para un ne
 
 ## Equipo
 
-+ Damián Lattenero
-+ Cristian Marchionne
++ Cristian Espindola
++ Sergio Guzman
 
 ## Stack tecnológico:
-+ AngularJS
-+ Spring
-+ Hibernate
++ Spring Boot
++ Postgresql
 + Java
