@@ -77,3 +77,5 @@ Sistema de publicacion de recitales.
 [Trello](https://trello.com/b/RjDFfjbw/circuito-del-under)
 
 -----------------------------------------------------------------
+
+veamos que hace
