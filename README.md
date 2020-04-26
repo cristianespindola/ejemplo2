@@ -1,5 +1,7 @@
 ## ejemplo2
 
+[![Build Status](https://github.com/cristianespindola/ejemplo2/edit/master/README.md)](https://github.com/cristianespindola/ejemplo2)
+
 ```bash
 $ node dist/services/initData.js
 Data initialization started
