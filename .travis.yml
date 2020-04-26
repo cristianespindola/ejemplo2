@@ -2,14 +2,10 @@ language: java
 jdk:
   - openjdk8
 
-dist: trusty
+image: maven:3.3.9-jdk-8
 
-sudo:
-  required
-
-cache:
-  directories:
-    - $HOME/.m2
+build:
+  script: "mvn install -B"
 
 before_script:
   - psql -c "create database demo;" -U postgres
