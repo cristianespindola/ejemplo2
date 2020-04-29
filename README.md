@@ -28,7 +28,6 @@ public class Tutorial {
 	}
 ````
 
-# Circuito Del Under - Backend
 
 ## Stack tecnológico:
 + Java 1.8
