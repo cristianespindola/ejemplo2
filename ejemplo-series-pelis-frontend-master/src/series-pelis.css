@@ -1,0 +1,10 @@
+li {
+    list-style: none;
+    padding: 10px;
+    float: left;
+}
+
+ul a{
+    text-decoration: none;
+    font-family: 'Glegoo', serif;
+}
