@@ -1,6 +1,6 @@
 ## ejemplo2
 
-[![Build Status](https://travis-ci.com/cristianespindola/ejemplo2.svg?token=pvcCwavFgRZm7A2hj7rp&branch=master)](https://github.com/cristianespindola/ejemplo2)
+[![Build Status](https://travis-ci.org/cristianespindola/ejemplo2.svg?branch=master)](https://github.com/cristianespindola/ejemplo2)
 
 ```bash
 $ node dist/services/initData.js
